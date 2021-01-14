@@ -1,0 +1,205 @@
+<?xml version="1.0" standalone="yes"?>
+<ChartDataSet xmlns="http://tempuri.org/ChartDataSet.xsd">
+  <ChartData>
+    <X>JAN</X>
+    <Y>2</Y>
+  </ChartData>
+  <ChartData>
+    <X />
+    <Y>3.5</Y>
+    <Y2>2.3333333333333335</Y2>
+  </ChartData>
+  <ChartData>
+    <X />
+    <Y>4</Y>
+  </ChartData>
+  <ChartData>
+    <X />
+    <Y>2</Y>
+    <Y2>1.3333333333333333</Y2>
+  </ChartData>
+  <ChartData>
+    <X>FEB</X>
+    <Y>5</Y>
+  </ChartData>
+  <ChartData>
+    <X />
+    <Y>6</Y>
+    <Y2>4</Y2>
+  </ChartData>
+  <ChartData>
+    <X />
+    <Y>8</Y>
+  </ChartData>
+  <ChartData>
+    <X />
+    <Y>4.5</Y>
+    <Y2>3</Y2>
+  </ChartData>
+  <ChartData>
+    <X>MAR</X>
+    <Y>7</Y>
+  </ChartData>
+  <ChartData>
+    <X />
+    <Y>6.5</Y>
+    <Y2>4.333333333333333</Y2>
+  </ChartData>
+  <ChartData>
+    <X />
+    <Y>8</Y>
+  </ChartData>
+  <ChartData>
+    <X />
+    <Y>12</Y>
+    <Y2>8</Y2>
+  </ChartData>
+  <ChartData>
+    <X>APR</X>
+    <Y>7</Y>
+  </ChartData>
+  <ChartData>
+    <X />
+    <Y>10</Y>
+    <Y2>6.666666666666667</Y2>
+  </ChartData>
+  <ChartData>
+    <X />
+    <Y>10</Y>
+  </ChartData>
+  <ChartData>
+    <X />
+    <Y>11.5</Y>
+    <Y2>7.666666666666667</Y2>
+  </ChartData>
+  <ChartData>
+    <X>MAY</X>
+    <Y>20</Y>
+  </ChartData>
+  <ChartData>
+    <X />
+    <Y>20</Y>
+    <Y2>13.333333333333334</Y2>
+  </ChartData>
+  <ChartData>
+    <X />
+    <Y>22</Y>
+  </ChartData>
+  <ChartData>
+    <X />
+    <Y>17</Y>
+    <Y2>11.333333333333334</Y2>
+  </ChartData>
+  <ChartData>
+    <X>JUN</X>
+    <Y>12</Y>
+  </ChartData>
+  <ChartData>
+    <X />
+    <Y>11.5</Y>
+    <Y2>7.666666666666667</Y2>
+  </ChartData>
+  <ChartData>
+    <X />
+    <Y>8.5</Y>
+  </ChartData>
+  <ChartData>
+    <X />
+    <Y>9</Y>
+    <Y2>6</Y2>
+  </ChartData>
+  <ChartData>
+    <X>JUL</X>
+    <Y>8.5</Y>
+  </ChartData>
+  <ChartData>
+    <X />
+    <Y>8</Y>
+    <Y2>5.333333333333333</Y2>
+  </ChartData>
+  <ChartData>
+    <X />
+    <Y>11</Y>
+  </ChartData>
+  <ChartData>
+    <X />
+    <Y>18</Y>
+    <Y2>12</Y2>
+  </ChartData>
+  <ChartData>
+    <X>AUG</X>
+    <Y>12</Y>
+  </ChartData>
+  <ChartData>
+    <X />
+    <Y>11.5</Y>
+    <Y2>7.666666666666667</Y2>
+  </ChartData>
+  <ChartData>
+    <X />
+    <Y>15</Y>
+  </ChartData>
+  <ChartData>
+    <X />
+    <Y>14</Y>
+    <Y2>9.3333333333333339</Y2>
+  </ChartData>
+  <ChartData>
+    <X>SEP</X>
+    <Y>14.5</Y>
+  </ChartData>
+  <ChartData>
+    <X />
+    <Y>22</Y>
+    <Y2>14.666666666666666</Y2>
+  </ChartData>
+  <ChartData>
+    <X />
+    <Y>18</Y>
+  </ChartData>
+  <ChartData>
+    <X />
+    <Y>17</Y>
+    <Y2>11.333333333333334</Y2>
+  </ChartData>
+  <ChartData>
+    <X>OCT</X>
+    <Y>20</Y>
+  </ChartData>
+  <ChartData>
+    <X />
+    <Y>18</Y>
+    <Y2>12</Y2>
+  </ChartData>
+  <ChartData>
+    <X />
+    <Y>21.5</Y>
+  </ChartData>
+  <ChartData>
+    <X />
+    <Y>22</Y>
+    <Y2>14.666666666666666</Y2>
+  </ChartData>
+  <ChartData>
+    <X>NOV</X>
+    <Y>24</Y>
+  </ChartData>
+  <ChartData>
+    <X />
+    <Y>23.5</Y>
+    <Y2>15.666666666666666</Y2>
+  </ChartData>
+  <ChartData>
+    <X />
+    <Y>25.5</Y>
+  </ChartData>
+  <ChartData>
+    <X />
+    <Y>27</Y>
+    <Y2>18</Y2>
+  </ChartData>
+  <ChartData>
+    <X>DEC</X>
+    <Y>30</Y>
+  </ChartData>
+</ChartDataSet>
