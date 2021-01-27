@@ -1,6 +1,6 @@
 {
     "type": "array", 
-    "testItems":
+    "items":
     {
         "type": "object",
         "properties":
