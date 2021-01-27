@@ -1,0 +1,15 @@
+{
+    "type": "array", 
+    "items":
+    {
+        "type": "object",
+        "properties":
+        {
+            "Test1": {"type": "string"},
+            "Test2": {"type": "string"},
+            "Test3": {"type": "number"},
+            "Test4": {"type": "boolean"},
+            "Test5": {"type": "number"}
+        }
+    }
+}

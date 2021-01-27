@@ -1,0 +1,16 @@
+[
+    {
+        "Test1": "Hello",
+        "Test2": "JSON",
+        "Test3": 1,
+        "Test4": true,
+        "Test5": 1.23
+    },
+    {
+        "Test1": "Hello again",
+        "Test2": "JSON 2",
+        "Test3": 2,
+        "Test4": false,
+        "Test5": 2.46
+    }
+]
